@@ -1,4 +1,4 @@
-# MRR - KISA MOYA
+# MRR - KISA MOYA - LUBLYU PURU
 import pandas as pd
 
 from joblib import load
